@@ -1,6 +1,6 @@
 cask "pomatez-pro" do
   version "2026.9.24"
-  sha256 "04eb4082cef96218552cc72a15496f026874ab66eded370a918724058bb154d2"
+  sha256 "6a03b8ccf52255e6b7d83b8d0f63e2b01e2a8b0ea7f04c6919dc37866dccba82"
 
   url "https://github.com/scyllarusllc/pomatez-releases/releases/download/v#{version}/Pomatez-Pro-#{version}.zip"
   name "Pomatez Pro"
