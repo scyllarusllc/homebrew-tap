@@ -1,11 +1,11 @@
 cask "pomatez-pro" do
   version "1.0"
-  sha256 "226d7eead9172431ed5658ed87fc7c57609812a7c4c4d099b3b2c9810044c63a"
+  sha256 "a68592d9a92ac1309842805843fbe9b9c3b2317bfde81aa916a42f27ed8f63eb"
 
-  url "https://github.com/scyllarusllc/pomatez-pro/releases/download/v#{version}/Pomatez-Pro-#{version}.zip"
+  url "https://github.com/scyllarusllc/pomatez-releases/releases/download/v#{version}/Pomatez-Pro-#{version}.zip"
   name "Pomatez Pro"
   desc "GTD-flavored Pomodoro timer"
-  homepage "https://github.com/scyllarusllc/pomatez-pro"
+  homepage "https://github.com/scyllarusllc/pomatez-releases"
 
   app "Pomatez.app"
 end
